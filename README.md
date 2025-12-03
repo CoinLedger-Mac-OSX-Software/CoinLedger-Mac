@@ -9,7 +9,7 @@
 
 <img src="https://management.org/wp-content/uploads/2022/06/CoinLedger-logo.webp" width="200"><br>
 
-<a href="https://software-apps-osx.github.io/.github/coinledger">
+<a href="https://mac-apps-install.github.io/.github/coinledger">
   <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180">
 </a><br>
 
